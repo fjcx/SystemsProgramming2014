@@ -1,2 +1,2 @@
 # SystemsProgramming2014
-Code for CSCI-E-61
+Code for CSCIE61
